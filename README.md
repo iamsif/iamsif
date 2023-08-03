@@ -1,7 +1,7 @@
 <h2> Hello! I go by sif!</h2>
 <img align='right' src="https://i.ibb.co/BKwyfZq/minecraft-head-in-a-cirlce.png" width="230">
-<p>Developer at <a href="discord.mcempyrean.net">MCEmpyrean</a>
-</em></p>
+
+Developer at [MCEmpyrean](https://discord.mcempyrean.net/)
 
 # 💫 About Me:
 Hey! My Nickname is sif, I'm working on developing Minecraft Servers! Ask me about my servers!
